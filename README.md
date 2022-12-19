@@ -1,0 +1,2 @@
+# CoinuoAutoTest
+javaForInterfaceTest
